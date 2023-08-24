@@ -16,13 +16,6 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I am an aspiring Front-Developer with a background in UX/UI Design.
-            I've designed multiple wireframes and digital prototypes using Figma
-            and Adobe XD. Once I was able to design websites, I wanted to build
-            them from scartch with my own personal touch. I attended and
-            graduated from Nucamp's Full Stack Web and Mobile Development
-            Bootcamp and started using codes such as Bootstrap, React, React
-            Native, Node.js, and many more to start creating my own websites.
-            Come and follow my journey!
           </p>
 
           <div>
