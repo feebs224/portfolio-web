@@ -4,10 +4,16 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import reactnative from "../assets/reactnative.png";
+import nodejs from "../assets/nodejs.png";
+import bootstrap from "../assets/bootstrap.png";
+import express from "../assets/express.png";
+import mongodb from "../assets/mongodb.png";
+import figma from "../assets/figma.png";
+import adobexd from "../assets/adobexd.png";
 
 const Experience = () => {
   const techs = [
@@ -31,40 +37,64 @@ const Experience = () => {
     },
     {
       id: 4,
-      src: reactImage,
-      title: "React",
-      style: "shadow-blue-600",
+      src: bootstrap,
+      title: "Bootstrap",
+      style: "shadow-purple-400",
     },
     {
       id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
+      src: reactImage,
+      title: "React",
+      style: "shadow-blue-400",
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
+      src: reactnative,
+      title: "React Native",
+      style: "shadow-blue-400",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
+      src: nodejs,
+      title: "Node.js",
+      style: "shadow-green-600",
     },
     {
       id: 8,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-300",
+    },
+    {
+      id: 9,
+      src: figma,
+      title: "Figma",
+      style: "shadow-red-400",
+    },
+    {
+      id: 10,
+      src: adobexd,
+      title: "AdobeXD",
+      style: "shadow-pink-400",
+    },
+    {
+      id: 11,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 12,
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-blue-300",
     },
   ];
 
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
