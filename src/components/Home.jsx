@@ -15,7 +15,8 @@ const Home = () => {
             Fibi Youssef
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am an aspiring Front-Developer with a background in UX/UI Design.
+            I am an aspiring Front-End Developer with a background in UX/UI
+            Design.
           </p>
 
           <div>
