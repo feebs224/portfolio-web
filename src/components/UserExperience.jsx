@@ -1,5 +1,5 @@
 import React from "react";
-import portfolio1 from "../assets/portfolio/portfolio1placeholder.jpg";
+import portfolio1 from "../assets/portfolio/artgallery.jpg";
 import portfolio2 from "../assets/portfolio/portfolio2placeholder.jpg";
 import portfolio3 from "../assets/portfolio/portfolio3placeholder.jpg";
 
@@ -8,6 +8,7 @@ const UserExperience = () => {
     {
       id: 1,
       src: portfolio1,
+      href: "https://www.figma.com/file/DEAdx3vJJD66WKvcG8UzFU/Untitled?type=design&node-id=0%3A1&mode=design&t=DxukqZTUOmMgrfd2-1",
     },
     {
       id: 2,
