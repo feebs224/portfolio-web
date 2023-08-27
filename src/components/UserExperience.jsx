@@ -8,7 +8,7 @@ const UserExperience = () => {
     {
       id: 1,
       src: portfolio1,
-      href: "https://www.figma.com/file/DEAdx3vJJD66WKvcG8UzFU/Untitled?type=design&node-id=0%3A1&mode=design&t=DxukqZTUOmMgrfd2-1",
+      url1: "https://www.figma.com/file/DEAdx3vJJD66WKvcG8UzFU/Untitled?type=design&node-id=0%3A1&mode=design&t=DxukqZTUOmMgrfd2-1",
     },
     {
       id: 2,
@@ -45,7 +45,10 @@ const UserExperience = () => {
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <button
+                  href={url1}
+                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
+                >
                   Wireframe
                 </button>
               </div>
