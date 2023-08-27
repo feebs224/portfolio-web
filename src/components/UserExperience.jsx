@@ -42,12 +42,14 @@ const UserExperience = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button
-                  href={url1}
-                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
-                >
-                  Prototype
-                </button>
+                <a title={url1}>
+                  <button
+                    href={url1}
+                    className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
+                  >
+                    Prototype
+                  </button>
+                </a>
               </div>
             </div>
           ))}
