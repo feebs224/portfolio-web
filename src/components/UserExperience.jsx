@@ -1,6 +1,6 @@
 import React from "react";
 import portfolio1 from "../assets/portfolio/artgallery.jpg";
-import portfolio2 from "../assets/portfolio/portfolio2placeholder.jpg";
+import portfolio2 from "../assets/portfolio/museum.jpg";
 import portfolio3 from "../assets/portfolio/portfolio3placeholder.jpg";
 
 const UserExperience = () => {
@@ -13,6 +13,7 @@ const UserExperience = () => {
     {
       id: 2,
       src: portfolio2,
+      url1: "https://xd.adobe.com/view/9d58ce8b-6691-4f36-a6ac-763c3e11fb27-c80b/",
     },
     {
       id: 3,
