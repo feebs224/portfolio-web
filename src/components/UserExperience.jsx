@@ -18,6 +18,7 @@ const UserExperience = () => {
     {
       id: 3,
       src: portfolio3,
+      url1: "https://xd.adobe.com/view/c9116acc-c23e-46af-931a-e295aca7a5f8-9c42/",
     },
   ];
 
