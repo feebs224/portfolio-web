@@ -1,5 +1,5 @@
 import React from "react";
-import portfolio1 from "../assets/portfolio/portfolio1placeholder.jpg";
+import portfolio1 from "../assets/portfolio/portfolio.jpg";
 import portfolio2 from "../assets/portfolio/portfolio2placeholder.jpg";
 import portfolio3 from "../assets/portfolio/portfolio3placeholder.jpg";
 
@@ -8,8 +8,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: portfolio1,
-      demo: "www.example.com",
-      code: "www.example.com",
+      demo: "https://main--fibiyoussef-portfolio-website.netlify.app/",
+      code: "https://github.com/feebs224/portfolio-web",
     },
     {
       id: 2,
