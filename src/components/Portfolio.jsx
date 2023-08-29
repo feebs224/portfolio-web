@@ -2,9 +2,6 @@ import React from "react";
 import portfolio1 from "../assets/portfolio/portfolio1placeholder.jpg";
 import portfolio2 from "../assets/portfolio/portfolio2placeholder.jpg";
 import portfolio3 from "../assets/portfolio/portfolio3placeholder.jpg";
-import portfolio4 from "../assets/portfolio/portfolio4placeholder.jpg";
-import portfolio5 from "../assets/portfolio/portfolio5placeholder.jpg";
-import portfolio6 from "../assets/portfolio/portfolio6placeholder.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,24 +20,6 @@ const Portfolio = () => {
     {
       id: 3,
       src: portfolio3,
-      demo: "www.example.com",
-      code: "www.example.com",
-    },
-    {
-      id: 4,
-      src: portfolio4,
-      demo: "www.example.com",
-      code: "www.example.com",
-    },
-    {
-      id: 5,
-      src: portfolio5,
-      demo: "www.example.com",
-      code: "www.example.com",
-    },
-    {
-      id: 6,
-      src: portfolio6,
       demo: "www.example.com",
       code: "www.example.com",
     },
