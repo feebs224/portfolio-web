@@ -1,6 +1,6 @@
 import React from "react";
 import portfolio1 from "../assets/portfolio/artgallery.jpg";
-import portfolio2 from "../assets/portfolio/bakery.jpgjpg";
+import portfolio2 from "../assets/portfolio/bakery.jpg";
 import portfolio3 from "../assets/portfolio/crossfit.jpg";
 
 const UserExperience = () => {
