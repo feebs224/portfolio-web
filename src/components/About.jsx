@@ -14,17 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Hi! I'm Fibi Youssef, a passionate UX/UI designer with a knack for
-          creating seamless digital experiences. My journey in the world of
-          design began with building a foundation in UX/UI. I'm well-versed in
-          utilizing tools like Figma and Adobe XD to bring my creative visions
-          to life, ensuring that each pixel serves a purpose. I continued to
-          expand my knowledge by pursuing education in full-stack web
-          development, giving me a unique perspective on the intersection of
-          functionality and aesthetics. With an eye for detail and a
-          user-centric approach, I strive to craft designs that not only look
-          visually appealing but also resonate with users on a meaningful and
-          functional level.
+          Hi! I'm Fibi Youssef, a passionate Full Stack Developer and UX/UI
+          designer with a knack for creating seamless digital experiences. My
+          journey in the world of design began with building a foundation in
+          UX/UI. I'm well-versed in utilizing tools like Figma and Adobe XD to
+          bring my creative visions to life, ensuring that each pixel serves a
+          purpose. I continued to expand my knowledge by pursuing education in
+          full-stack web development, giving me a unique perspective on the
+          intersection of functionality and aesthetics. With an eye for detail
+          and a user-centric approach, I strive to craft designs that not only
+          look visually appealing but also resonate with users on a meaningful
+          and functional level.
         </p>
 
         <br />
