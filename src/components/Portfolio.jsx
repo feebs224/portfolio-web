@@ -1,6 +1,6 @@
 import React from "react";
 import portfolio1 from "../assets/portfolio/portfolio.jpg";
-import portfolio2 from "../assets/portfolio/portfolio2placeholder.jpg";
+import portfolio2 from "../assets/portfolio/bakerysite.jpg";
 import portfolio3 from "../assets/portfolio/portfolio3placeholder.jpg";
 
 const Portfolio = () => {
@@ -14,8 +14,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: portfolio2,
-      demo: "www.example.com",
-      code: "www.example.com",
+      demo: "https://fibis-sweets.netlify.app/",
+      code: "https://github.com/feebs224/bakery-site.git",
     },
     {
       id: 3,
