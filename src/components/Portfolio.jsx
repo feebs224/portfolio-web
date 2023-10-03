@@ -1,7 +1,7 @@
 import React from "react";
 import portfolio1 from "../assets/portfolio/portfolio.jpg";
-import portfolio2 from "../assets/portfolio/bakerysite.jpg";
-import portfolio3 from "../assets/portfolio/shopping.jpg";
+import portfolio2 from "../assets/portfolio/shopping.jpg";
+import portfolio3 from "../assets/portfolio/bakerysite.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -14,14 +14,14 @@ const Portfolio = () => {
     {
       id: 2,
       src: portfolio2,
-      demo: "https://fibis-sweets.netlify.app/",
-      code: "https://github.com/feebs224/bakery-site.git",
+      demo: "https://af-clothing.netlify.app/",
+      code: "https://github.com/feebs224/shopping-site.git",
     },
     {
       id: 3,
       src: portfolio3,
-      demo: "https://af-clothing.netlify.app/",
-      code: "https://github.com/feebs224/shopping-site.git",
+      demo: "https://fibis-sweets.netlify.app/",
+      code: "https://github.com/feebs224/bakery-site.git",
     },
   ];
 
