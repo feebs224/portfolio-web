@@ -14,9 +14,9 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Hi! I'm Fibi Youssef, a passionate Full Stack Developer and UX/UI
-          designer with a knack for creating seamless digital experiences. My
-          journey in the world of design began with building a foundation in
+          Hi! I'm Fibi Youssef Botrous, a passionate Full Stack Developer and
+          UX/UI designer with a knack for creating seamless digital experiences.
+          My journey in the world of design began with building a foundation in
           UX/UI. I'm well-versed in utilizing tools like Figma and Adobe XD to
           bring my creative visions to life, ensuring that each pixel serves a
           purpose. I continued to expand my knowledge by pursuing education in
