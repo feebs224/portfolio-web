@@ -6,6 +6,7 @@ import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
 import UserExperience from "./components/UserExperience";
+import WordpressProjects from "./components/WordpressProjects";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Home />
       <About />
       <Portfolio />
+      <WordpressProjects />
       <UserExperience />
       <Experience />
       <Contact />
